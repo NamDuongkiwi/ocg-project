@@ -1,6 +1,6 @@
 # OCGFresher-BE
 
-# Run sever in port : 3000
+## Run sever in port : 3000
 ```
 go run main.go
 ```
@@ -65,6 +65,8 @@ Xoá sản phẩm khỏi giỏ hàng
 ### Ảnh database
 ![image](https://user-images.githubusercontent.com/43265144/123946816-d62f2580-d9c9-11eb-9d29-3551a2fb584f.png)
 
+
+# OCGFresher-FE
 
 
 
