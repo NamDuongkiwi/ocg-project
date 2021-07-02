@@ -4,7 +4,7 @@
 ```
 go run main.go
 ```
-File database trong thư mục databases
+File database trong thư mục OCGFresher-BE/database
 
 ### Các Api đã hoàn thành 
     
