@@ -1,10 +1,15 @@
 # OCGFresher-BE
 
+## Khởi tạo Database
+
+Tạo 1 mysql server  trên docker, port: 3307
+Import data từ file dumb trong folder OCGFresher-BE/database
+
 ## Run sever in port : 3000
 ```
 go run main.go
 ```
-File database trong thư mục OCGFresher-BE/database
+
 
 ### Các Api đã hoàn thành 
     
