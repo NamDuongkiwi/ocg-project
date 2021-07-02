@@ -4,6 +4,8 @@
 ```
 go run main.go
 ```
+File database trong thư mục databases
+
 ### Các Api đã hoàn thành 
     
 ### APi đăng nhập, đăng ký
@@ -92,5 +94,13 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+
+### Một số ảnh sản phẩm
+
+![image](https://user-images.githubusercontent.com/43265144/124209869-96288980-db14-11eb-8574-312c82dd827f.png)
+
+![image](https://user-images.githubusercontent.com/43265144/124209956-ca03af00-db14-11eb-9420-821b1bc7bacb.png)
+
+![image](https://user-images.githubusercontent.com/43265144/124210122-1949df80-db15-11eb-905f-4e9efc9c46db.png)
 
 
